@@ -1,0 +1,1 @@
+This repository contains code and data for a sales analysis project focused on deriving insights from online retail data. Key analyses include identifying peak sales months, top-selling cities, optimal advertisement times, frequently co-purchased products, and best-selling items along with their market appeal.
